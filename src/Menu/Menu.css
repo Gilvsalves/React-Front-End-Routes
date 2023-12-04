@@ -1,0 +1,19 @@
+.menu{
+    background-color: #4e3478;
+    text-align: center;
+}
+
+nav{
+    margin-top: 1%;
+    padding: 2%;
+}
+
+nav>a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    margin-right: 30px;
+}
+nav> a:hover{
+    text-decoration: underline;
+}
